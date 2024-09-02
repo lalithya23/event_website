@@ -19,7 +19,7 @@ Illuminate is a celebration of innovation, creativity, and technical prowess. It
 
 To participate in Illuminate, follow these steps:
 
-1. **Registration:** Visit our website [https://rahuldasari1.github.io/event_website/] and complete the registration process. Make sure to provide accurate information and select the events you wish to participate in.
+1. **Registration:** Visit our website [https://lalithyatelakapallieventwensite.netlify.app/] and complete the registration process. Make sure to provide accurate information and select the events you wish to participate in.
 2. **Event Schedule:** Check the event schedule on our website to stay updated with the timings and locations of various activities and competitions.
 3. **Preparation:** Prepare for your chosen competitions or workshops by brushing up on relevant skills, gathering necessary materials, and familiarizing yourself with the event guidelines.
 4. **Attendance:** Attend the fest on the specified dates and venues. Arrive on time for your registered events and make the most out of your participation.
@@ -29,15 +29,15 @@ To participate in Illuminate, follow these steps:
 
 For any inquiries or assistance regarding Illuminate, feel free to contact us:
 
-- **Email:** [dasarirahulpatel.drp@gmail.com]
-- **Phone:** [+91 8919936002]
-- **Social Media:** Connect us on [https://www.linkedin.com/in/rahul-dasari-drp/] for updates and announcements.
+- **Email:** [telakapallilalithya@gmail.com]
+- **Phone:** [+91 6305298697]
+- **Social Media:** Connect us on [www.linkedin.com/in/lalithya-telakapalli-356b02243] for updates and announcements.
 
 ## Contributors
 
 Rahul Dasari - Developer (Lead) | 
-Kartheek Dama - Developer | 
-Lalithya - Developer
+Lalithya - Developer | 
+Kartheek Dama - Developer
 
 Illuminate is made possible by the collective efforts and contributions of numerous individuals, including organizers, volunteers, sponsors, and participants. We extend our heartfelt gratitude to everyone involved in making this event a grand success.
 
